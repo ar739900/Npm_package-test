@@ -1,6 +1,6 @@
 {
   "name": "@captain_amit/3rd-project-note",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "some node project",
   "main": "index.js",
   "scripts": {
