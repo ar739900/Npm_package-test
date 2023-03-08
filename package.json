@@ -1,5 +1,5 @@
 {
-  "name": "3rd-project-note",
+  "name": "@captain_amit/3rd-project-note",
   "version": "1.0.0",
   "description": "some node project",
   "main": "index.js",
@@ -13,5 +13,14 @@
     "commander": "^10.0.0",
     "enquirer": "^2.3.6",
     "qrcode": "^1.5.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ar739900/node_massai.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ar739900/node_massai/issues"
+  },
+  "homepage": "https://github.com/ar739900/node_massai#readme"
 }

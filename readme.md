@@ -1,34 +1,28 @@
-# Heading H1
-## Heading H2
-### Heading H3
-## List
-- Item 1
-- *Item 2* italics
-- **Item 3** Bold
-### To Design code blocks
-<h3 align = center>
-<br>
+# Example project
+
+Made a simple package for learning
+
+># Install
 
 ```
-npm install <Package>
+npm i @captain_amit/3rd-project-note
 ```
-<br>
-<h3 align = center>
-<br>
+# Usage
 
 ```js
-var some_value = "abc"
+const sum = require('npm i @captain_amit/3rd-project-note')
+
+var add = new sum(1,2)
+
+console.log(add);
+//3
 ```
-</h3>
+### API
 
->### ``Images``
-<br>
-<h2 align = center>
+```
+function sum(a:number,b:number)=> number 
+```
 
-[My Referal Link](https://www.masai.school/referral/RDiyyHh)
+## `Maintainer`
 
-<h align = center>
-
-![Masai Logo](https://dashboard.masaischool.com/static/media/masailogo.ab93bfe1.svg)
-
-
+- [captain](https://github.com/ar739900)
